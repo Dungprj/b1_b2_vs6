@@ -10,6 +10,14 @@ html{
         font-size: 19px;
         
     }
+    .append_group{
+        color:#f4ad9d;
+        margin-top: 20px;
+        font-size: 16px;
+        background-color:rgb(237, 52, 52);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
     #nav{
         position: relative;
     }
@@ -175,6 +183,14 @@ html{
         height:51px;
         font-size: 19px;
         
+    }
+    .append_group{
+        color:#f4ad9d;
+        margin-top: 20px;
+        font-size: 16px;
+        background-color:rgb(237, 52, 52);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
     }
     .index_cl{
         background-color: #d74f4f;

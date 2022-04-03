@@ -12,6 +12,14 @@ html{
         
         width: fit-content;
     }
+    .append_group{
+        color:#f4ad9d;
+        margin-top: 20px;
+        font-size: 16px;
+        background-color:rgb(237, 52, 52);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
     #show_all_list{
         width:40%;
         margin-top: 2%;
